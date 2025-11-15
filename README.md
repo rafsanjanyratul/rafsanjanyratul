@@ -1,8 +1,8 @@
-(https://media.licdn.com/dms/image/v2/D5616AQHAvOk3dkBgzg/profile-displaybackgroundimage-shrink_200_800/B56ZqGROvuI0AU-/0/1763189256117?e=1764806400&v=beta&t=gsIkXFxKICPwy4tvgWi6acn4LjBtXx_gg-BOsReJomk)
+![MERN Stack Developer | BSc in CSE | Building Responsive & Interactive Web Applications](https://media.licdn.com/dms/image/v2/D5616AQHAvOk3dkBgzg/profile-displaybackgroundimage-shrink_200_800/B56ZqGROvuI0AU-/0/1763189256117?e=1764806400&v=beta&t=gsIkXFxKICPwy4tvgWi6acn4LjBtXx_gg-BOsReJomk)
 
 ### Hi there 👋, I'm Rafsan Jany Ratul
 #### MERN Stack Developer | BSc in CSE | Building Responsive & Interactive Web Applications
-![MERN Stack Developer | BSc in CSE | Building Responsive & Interactive Web Applications]
+
 
 👋 Hi, I’m Rafsan Jany Ratul
 A MERN Stack Developer specializing in JavaScript, TypeScript, React, Next.js, Node.js, Express.js, MongoDB and building scalable full-stack applications.
